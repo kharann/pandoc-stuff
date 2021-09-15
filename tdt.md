@@ -3,8 +3,7 @@
 # see https://pandoc.org/MANUAL.html#variables
 title: TDT4195 Assignment X
 author:
-- Gyrd Bannamule Gyrdsson
-- Gjavleik Britonis Podebusk
+- Hmm Person
 date: \today # This is a latex command, ignored for HTML output
 lang: en-US
 papersize: a4
